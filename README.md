@@ -31,4 +31,6 @@ Vaak Vyapar is an AI-powered voice-based smart billing system designed to simpli
 
 ## Authors
 - Naveen Kumar Geddada
+- Prem Varun
+- Manu Akash
 - Contributors are welcome!
